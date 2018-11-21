@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map RotaryEncoder
+#######################################
+
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+encoderCount KEYWORD2
+encoderRead KEYWORD2
+encoderSpeed KEYWORD2
+buttonState KEYWORD2
+
+#######################################
+# Instances	(KEYWORD2)
+#######################################
+
+RipppleEncoder	KEYWORD2
+
+#######################################
+# Constants	(LITERAL1)
+#######################################
