@@ -16,6 +16,7 @@ public:
 	void encoderRead();
 	int32_t encoderSpeed();
 	bool buttonState();
+	void encoderWrite(int32_t);
 
 private:
 	bool _pinAState,_pinBState,_buttonPinState,_pinA_last;

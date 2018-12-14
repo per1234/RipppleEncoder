@@ -37,3 +37,7 @@ bool RipppleEncoder::buttonState(){
 	return b;
 }
 
+void RipppleEncoder::encoderWrite(int32_t newCount){
+	_currentCount=newCount;
+}
+
