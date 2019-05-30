@@ -10,10 +10,10 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-encoderCount KEYWORD2
-encoderRead KEYWORD2
-encoderSpeed KEYWORD2
-buttonState KEYWORD2
+encoderCount	KEYWORD2
+encoderRead	KEYWORD2
+encoderSpeed	KEYWORD2
+buttonState	KEYWORD2
 
 #######################################
 # Instances	(KEYWORD2)
